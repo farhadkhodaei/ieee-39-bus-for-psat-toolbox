@@ -40,7 +40,3 @@ clpsat.init=1;
 clpsat.pq2z=1;
 %analysis
 fm_eigen('runsssa');
-findeigenvaluessmart;
-
-eignn
-
